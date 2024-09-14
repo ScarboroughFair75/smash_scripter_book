@@ -1,0 +1,6 @@
+[book]
+authors = ["Scarborough Fair"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Smash Script"
